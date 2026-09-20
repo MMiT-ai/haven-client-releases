@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.47",
-    "packageUrl":  "https://github.com/MMiT-ai/haven-client-releases/releases/download/v0.1.47/HavenClient-update-0.1.47.zip",
-    "sha256":  "a0553b320b266dbad7bbfb709b0dba9183362efccec31cec1936d01093091b84",
-    "sourceCommit":  "2eeabf756852e98f2a7b8601adaae0449e114261",
+    "version":  "0.1.48",
+    "packageUrl":  "https://github.com/MMiT-ai/haven-client-releases/releases/download/v0.1.48/HavenClient-update-0.1.48.zip",
+    "sha256":  "d53a6890f22fe4c6ca97a3f62ad77f799a94d6d785aa81d495e4134e3653e385",
+    "sourceCommit":  "51968dd2e7c62ad29f558a4ea04588c08bc741e6",
     "upstreamCommit":  "bbfc4d7282fdcf7bbaba57925017e745fe6ff398"
 }
